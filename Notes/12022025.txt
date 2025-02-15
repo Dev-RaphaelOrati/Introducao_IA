@@ -1,0 +1,13 @@
+A grande maioria das IAs são feitas em Python.
+
+Para que seja analisado a quantidade de dados gerados atualmente é necessário ter IA's acopladas.
+
+Equação diferencial acoplada. Métodos para realizar essas equações utilizando IA.
+
+Aplicação de filtros em árvores.
+
+A IA possui áreas específicas dentro dela.
+Aprendizagem profundo > Deep Learning > Neural Networks > Machine Learning > Artificial inteligence(IA)
+
+Tensor Flow.
+
