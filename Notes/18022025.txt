@@ -1,0 +1,20 @@
+
+Criação dos grupos para trabalho.
+Tema:
+    Introdução a inteligência artificial Generativa:
+        Redes neurais recorrêntes;
+
+Como será a avaliação:
+    Tempo: minimo 30 e máximo 40
+    Relatório sobre o trabalho;
+        10 páginas;
+        em pdf;
+        formato de artigo científico.
+    Finalidade do trabalho;
+    Deve ser demonstrado como o seu tema pode ser utilizado no dia a dia, ou mercado de trabalho, etc...
+    Utilizar jupternotebook
+    Data: 12/03;
+    
+
+
+    
